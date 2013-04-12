@@ -1,0 +1,10 @@
+Host: 125.234.238.110:6346
+Max-Live: 15
+Max-Cache: 100
+Auto-Connect: true
+Pinger-Time: 10000
+Connector-Time: 40000
+Shared-Directory: share
+Download-Directory: download
+Repository: 125.234.238.110
+Number-Threads: 1
